@@ -1,7 +1,7 @@
 =====================================================================================
-||  Sparsecoding and CompressivesensingSpikesortDemo 
+||  Sparsecoding and CompressivesensingSpikesortDemo=========================================================== 
 
-=====================================================================================
+==========================================================================================
 
 This package contains matlab code for sorting/estimating spikes of
  neurons recorded with one or more extracellular electrodes.  Unlike
