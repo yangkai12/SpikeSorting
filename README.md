@@ -17,7 +17,7 @@ OUTLINE OF METHOD: (0)Load raw data, stored in an array containing electrode vol
 ====================================================================================Note that the code for steps (0)-(4) and step (8) is consistent with the K-means clustering implementation process, and its code can be found from https://github.com/chinasaur/CBPSpikesortDemo.
  
 ## Citation
-If you find Dual-OctConv useful for your research, please consider citing the following papers:
+If you find the code useful for your research, please consider citing the following papers:
 ```
 @inproceedings{feng2021DualOctConv,
   title={Sparse coding and compressive sensing for overlapping neural spike sorting},
@@ -25,7 +25,3 @@ If you find Dual-OctConv useful for your research, please consider citing the fo
   booktitle={IEEE Transactions on Neural Systems and Rehabilitation Engineering},
   year={2018}
 }
-
-
-
-
