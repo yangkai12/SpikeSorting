@@ -1,5 +1,5 @@
-=====================================================================================
-||  Sparsecoding and CompressivesensingSpikesortDemo ==========================================================================================
+# SiamCorners
+This is an official implemention for “[Sparse coding and compressive sensing for overlapping neural spike sorting](https://ieeexplore.ieee.org/abstract/document/8387789/)”. 
 
 This package contains matlab code for sorting/estimating spikes of
  neurons recorded with one or more extracellular electrodes.  Unlike
