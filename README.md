@@ -1,4 +1,4 @@
-# SiamCorners
+# Sparse coding and compressive sensing
 This is an official implemention for “[Sparse coding and compressive sensing for overlapping neural spike sorting](https://ieeexplore.ieee.org/abstract/document/8387789/)”. 
 
 This package contains matlab code for sorting/estimating spikes of
@@ -19,7 +19,7 @@ OUTLINE OF METHOD: (0)Load raw data, stored in an array containing electrode vol
 ## Citation
 If you find the code useful for your research, please consider citing the following papers:
 ```
-@inproceedings{feng2021DualOctConv,
+@inproceedings{yang,
   title={Sparse coding and compressive sensing for overlapping neural spike sorting},
   author={Haifeng Wu, Kai Yang, and Yu Zeng},
   booktitle={IEEE Transactions on Neural Systems and Rehabilitation Engineering},
