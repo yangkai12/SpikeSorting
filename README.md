@@ -21,7 +21,7 @@ If you find the code useful for your research, please consider citing the follow
 ```
 @inproceedings{yang,
   title={Sparse coding and compressive sensing for overlapping neural spike sorting},
-  author={Haifeng Wu, Kai Yang, and Yu Zeng},
+  author={Kai Yang, Haifeng Wu, and Yu Zeng},
   booktitle={IEEE Transactions on Neural Systems and Rehabilitation Engineering},
   year={2018}
 }
